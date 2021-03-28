@@ -1,0 +1,46 @@
+{
+    "ques":
+    [
+        "What is capital of India?",
+        "What is the Capital of Maharashtra",
+        "How many states are there in India",
+        "How many bones are there in human body",
+        "Which is highest populated country ",
+        "Who is the Father of the nation",
+        "When is national consumer day celebrated",
+        "On which day was Lal Bahadur Shashtri born",
+        "Which is largest Ocean",
+        "Who is the architect of the Constitution og India",
+        "Which is the first largest state in India(area wise)",
+        "Where is Gateway of India situated",
+        "Who is Asia's richest person",
+        "Who is the captain of Indian Cricket team",
+        "What do people usually call Salman Khan",
+        "How many players are there in a cricket team",
+        "Where is CharMinar situated"
+    ],
+
+    "options": [
+        [ "Delhi", "Pune", "Mumbai", "Kashmir"],
+        ["Pune","Panji", "Mumbai", "Nashik"],
+        ["28","29","30","27"],
+        ["286","270","290","284"],
+        ["India","Pakistan","China","USA"],
+        ["Jawaharlal Nehru","Mahatma Gandhi","Bhagat Singh","Sardar Vallabhai Patel"],
+        ["24 January","24 March","24 December","24 May"],
+        ["2 January","2 August","2 May","2 October"],
+        ["Pacific ocean","Indian ocean","Arctic ocean","Atlantic ocean"],
+        ["Dr.Rajendra Prasad","Dr.ManMohan Singh","Dr.Babasaheb Ambedkar","Sardar Vallabhai Patel"],
+        ["Maharashtra","Madhya Pradesh","Rajasthan","Uttar Pradesh"],
+        ["Mumbai","Delhi","Kolkata","Goa"],
+        ["Anand Pirmal","Ratan Tata","Mukesh Ambani","Anil Ambani"],
+        ["M S Dhoni","Virat Kohli","Rohit Sharma","Shikhar Dhawan"],
+        ["King khan","Badshah","Bhaijaan","Big B"],
+        ["12","11","10","9"],
+        ["Lucknow","Hyderabad","Kolkata","Pune"]
+
+
+    ],
+    "ans":[1,3,2,1,3,2,3,4,1,3,3,1,3,2,3,2,2]
+
+}
